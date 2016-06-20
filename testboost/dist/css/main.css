@@ -1,0 +1,16 @@
+.home{
+  position: fixed;
+  opacity: 0.85;
+  z-index: ;
+}
+img{
+  margin: auto;
+  height:800px ;
+  width: 1000px;
+  opacity: .85;
+}
+.carousel-caption{
+  width: 0;
+  height: 0;
+  background-color: "#a70404";
+}

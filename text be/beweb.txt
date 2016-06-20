@@ -1,0 +1,32 @@
+Presentation de BEWEB
+
+BEWEB est l'une fabrique numérique labellisée «Grande Ecole du Numérique» et soutenu Fondespierre RH.
+Cette fabrique cooperative du numérique a pour vocation de former des jeunes lunellois(et ces alentours)
+avec peu ou pas diplôme,en reconvertion au metier de développeur web. 
+
+
+
+
+
+
+
+<!-- BEWEB a été labellisée «Grande Ecole du Numérique» .
+
+
+
+dispenser 
+
+ a pour vocation de former 
+
+
+
+et trouver un emploi dans un secteur qui recrute, celui du numérique et qui
+ vise à l'insertion professionnelle, à l'utilisation de pédagogies innovantes, à l'inclusion dans les territoires et 
+à l'ouverture aux publics traditionnellement éloignés
+ du numérique.
+
+
+ le 3 fevrier à Paris par le gouvernement.
+
+
+ qui délivre une formation au développement web. -->
